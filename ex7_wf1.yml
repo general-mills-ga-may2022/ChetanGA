@@ -1,4 +1,4 @@
-name: ex7_wf1
+name: ex7_wf11
 on: [push]
 jobs:
   check-bats-version:
