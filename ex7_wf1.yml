@@ -1,5 +1,5 @@
 name: ex7_wf1
-on: [commit]
+on: [push]
 jobs:
   check-bats-version:
     runs-on: ubuntu-latest
